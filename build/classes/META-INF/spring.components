@@ -1,0 +1,2 @@
+crud_mysql.Config=org.springframework.stereotype.Component
+crud_mysql.MySQL=org.springframework.stereotype.Component
